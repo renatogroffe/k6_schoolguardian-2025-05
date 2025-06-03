@@ -23,3 +23,13 @@ Ferramenta de transmissão: **Google Meet**
 Tecnologias e tópicos abordados: **k6, JavaScript, Docker, Azure DevOps, Azure Pipelines, Linux, Git, PostgreSQL, MySQL, .NET, ASP.NET Core, JWT, Go...**
 
 Número de participantes: **7 pessoas**
+
+![Renato palestrando](img/sg-04.png)
+
+![Renato palestrando](img/sg-05.png)
+
+![Renato palestrando](img/sg-06.png)
+
+![Renato palestrando](img/sg-07.png)
+
+![Público](img/sg-01.png)
