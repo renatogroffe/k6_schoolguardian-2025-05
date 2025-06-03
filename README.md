@@ -33,3 +33,5 @@ Número de participantes: **7 pessoas**
 ![Renato palestrando](img/sg-07.png)
 
 ![Público](img/sg-01.png)
+
+Deixamos aqui nossos agradecimentos aos meus amigos **José Rubens Rodrigues** e **Thiago Adriano** por todo o apoio para que eu participasse deste evento interno da [**School Guardian**](https://www.linkedin.com/company/schoolguardian/?originalSubdomain=br).
