@@ -37,4 +37,3 @@ Deixo aqui meus agradecimentos aos amigos **José Rubens Rodrigues** e **Thiago 
 ![Renato palestrando](img/sg-07.png)
 
 ![Público](img/sg-03.png)
-
