@@ -24,6 +24,10 @@ Tecnologias e tópicos abordados: **k6, JavaScript, Docker, Azure DevOps, Azure 
 
 Número de participantes: **7 pessoas**
 
+Deixo aqui meus agradecimentos aos amigos **José Rubens Rodrigues** e **Thiago Adriano** por todo o apoio para que eu participasse deste evento interno da [**School Guardian**](https://www.linkedin.com/company/schoolguardian/?originalSubdomain=br).
+
+---
+
 ![Renato palestrando](img/sg-04.png)
 
 ![Renato palestrando](img/sg-05.png)
@@ -34,4 +38,3 @@ Número de participantes: **7 pessoas**
 
 ![Público](img/sg-03.png)
 
-Deixamos aqui nossos agradecimentos aos meus amigos **José Rubens Rodrigues** e **Thiago Adriano** por todo o apoio para que eu participasse deste evento interno da [**School Guardian**](https://www.linkedin.com/company/schoolguardian/?originalSubdomain=br).
