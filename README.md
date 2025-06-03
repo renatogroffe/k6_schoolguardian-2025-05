@@ -7,3 +7,19 @@ Links importantes:
 - k6 + MySQL: https://github.com/renatogroffe/k6-MySql-LoadTests-AzureDevOps-Pipelines
 - k6 + PostgreSQL: https://github.com/renatogroffe/k6-Postgres-LoadTests-AzureDevOps-Pipelines
 - grafana/xk6 Docker image: https://hub.docker.com/r/grafana/xk6
+
+---
+
+## Informações sobre o evento
+
+Título da apresentação: **k6: descomplicando seus testes de carga e de performance**
+
+Data: **16/05/2025 (sexta-feira)**
+
+Tipo do evento: **Online**
+
+Ferramenta de transmissão: **Google Meet**
+
+Tecnologias e tópicos abordados: **k6, JavaScript, Docker, Azure DevOps, Azure Pipelines, Linux, Git, PostgreSQL, MySQL, .NET, ASP.NET Core, JWT, Go...**
+
+Número de participantes: **7 pessoas**
