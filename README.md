@@ -20,7 +20,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Google Meet**
 
-Tecnologias e tópicos abordados: **k6, JavaScript, Docker, Azure DevOps, Azure Pipelines, Linux, Git, PostgreSQL, MySQL, .NET, ASP.NET Core, JWT, Go...**
+Tecnologias e tópicos abordados: **k6, JavaScript, Docker, Docker Hub, Azure DevOps, Azure Pipelines, Linux, Git, PostgreSQL, MySQL, .NET, ASP.NET Core, JWT, Go...**
 
 Número de participantes: **7 pessoas**
 
